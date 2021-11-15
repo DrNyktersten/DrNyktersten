@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrNyktersten
+- 👋 Hi, my name is Kurmanbek Bazarov
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Database and Data Structures
 - 💞️ I’m looking to collaborate on new coding ideas
