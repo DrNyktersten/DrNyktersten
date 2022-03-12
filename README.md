@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Kurmanbek Bazarov
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Database and Data Structures
-- 💞️ I’m looking to collaborate on new coding ideas
+- 👋 Hi, my name is Kurmanbek Bazarov.
+- 👀 I’m interested in cybersecurity, big data, and machine learning. 
+- 🌱 I’m currently learning about AI. 
+- 💞️ I’m looking to collaborate on new coding ideas.
 - 📫 How to reach me kurmanbek325@gmail.com
 
 <!---
